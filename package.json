@@ -39,7 +39,7 @@
     ]
   },
   "devDependencies": {
-    "gh-pages": "^2.2.0",
+    "gh-pages": "^5.0.0",
     "http-server": "^0.12.1"
   }
 }
